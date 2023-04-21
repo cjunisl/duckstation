@@ -67954,7 +67954,9 @@ C001CBE8 5110
 8006B9EE 6464
 5000120A 0000
 8006B9F0 6464
-#Open All Original V8 Levels + Wacky Mode
+#Unlock Original V8 Levels
+8006A832 0010
+#Wacky Mode
 8006A832 001F
 #Invincibility
 8006A830 0008
